@@ -5,5 +5,5 @@ based on Chapter 2 of [_Programming Skills for Data Science_](https://programmin
  
 Solutions can be found in the `solution` branch.
 
-# this is change
-# i just finished this assignment
+# wow i made a change
+# wow I just finished this awesome assignment
